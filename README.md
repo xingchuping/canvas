@@ -3,8 +3,13 @@
 ====
 
 * HTML
-> <canvas id = 'canvas'></canvas>
+<canvas id = 'canvas'></canvas>
+<br>
 * Javascript
-> var canvas = document.getElementById('canvas');
-> var context = canvas.getContext("2d");
+<br>
+var canvas = document.getElementById('canvas');
+<br>
+var context = canvas.getContext("2d");
+<br>
 > //使用 context 进行绘制
+<br>
