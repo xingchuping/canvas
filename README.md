@@ -2,10 +2,10 @@
 一起进入canvas绘图之旅！
 ====
 
-* HTML
+##HTML
 <canvas id = 'canvas'></canvas>
 <br>
-* Javascript
+##Javascript
 <br>
 var canvas = document.getElementById('canvas');
 <br>
