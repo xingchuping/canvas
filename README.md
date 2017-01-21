@@ -1,3 +1,5 @@
 # canvas
 Canvas foundation
-一起来开启canvas学习之旅吧
+<br>
+<h3>一起来学习canvas吧！</h3>
+
